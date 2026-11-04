@@ -1,7 +1,7 @@
 # Traitod Saiyaporn
 
 I'm studying for an M.Sc. in Finance at Chiang Mai University while working as a
-process engineer. I'm looking for an internship in quantitative research or finance.
+process engineer.
 
 My research asks whether negative regulatory language in public SEC correspondence
 is associated with subsequent S&P 500 volatility. I work with Python and R on data
